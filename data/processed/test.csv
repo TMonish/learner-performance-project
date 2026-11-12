@@ -1,0 +1,301 @@
+enrollment_id,learner_group_id,attendance_pct,quiz_average,assignment_completion_pct,active_learning_minutes,days_since_last_activity,practice_attempt_count,course_category,outcome_status,final_score,below_benchmark
+ENR-00002,LG-00483,47.0,62.2,42.4,203,6,7,Machine Learning,observed,45.2,1
+ENR-00017,LG-00005,86.7,49.8,74.0,351,3,3,Python,observed,70.5,0
+ENR-00023,LG-00296,83.7,55.6,74.1,454,2,6,Data Analytics,observed,70.4,0
+ENR-00027,LG-00200,100.0,96.5,100.0,326,0,9,Data Analytics,observed,72.0,0
+ENR-00032,LG-00766,70.9,32.8,72.5,198,1,10,SQL,observed,59.9,0
+ENR-00037,LG-00589,35.4,,49.1,122,4,4,Python,observed,34.6,1
+ENR-00038,LG-00586,82.5,63.1,55.5,227,2,3,Python,observed,51.2,0
+ENR-00044,LG-00771,43.5,49.6,52.8,266,8,2,Data Analytics,observed,38.9,1
+ENR-00047,LG-00126,92.5,74.8,92.6,344,2,11,Python,observed,77.9,0
+ENR-00052,LG-00141,85.9,53.9,78.5,220,4,6,Machine Learning,observed,76.2,0
+ENR-00053,LG-00921,63.6,62.7,77.9,219,1,3,Python,observed,66.0,0
+ENR-00058,LG-00894,44.4,22.0,22.3,134,9,2,Web Development,observed,18.7,1
+ENR-00060,LG-01461,40.8,39.1,28.7,184,5,2,Python,observed,30.3,1
+ENR-00071,LG-01337,79.6,83.3,98.4,190,1,2,Machine Learning,observed,75.6,0
+ENR-00075,LG-00339,72.8,78.9,73.3,90,1,7,SQL,observed,56.4,0
+ENR-00076,LG-00769,98.1,64.2,95.3,227,0,9,Web Development,observed,79.9,0
+ENR-00088,LG-01423,66.3,43.0,41.1,389,2,3,Python,observed,51.3,0
+ENR-00091,LG-00496,49.7,39.0,58.5,170,1,3,Python,observed,47.8,1
+ENR-00108,LG-01445,85.6,99.0,99.5,434,0,7,SQL,observed,82.2,0
+ENR-00114,LG-01282,68.6,36.6,54.5,159,5,3,Python,observed,43.9,1
+ENR-00121,LG-00282,89.7,76.3,78.5,526,0,10,Data Analytics,observed,80.1,0
+ENR-00126,LG-00564,7.5,44.7,19.2,49,9,3,Python,observed,9.4,1
+ENR-00128,LG-01537,72.1,58.1,60.8,145,2,6,SQL,observed,53.4,0
+ENR-00139,LG-00191,65.4,75.7,73.5,289,0,4,Web Development,observed,74.6,0
+ENR-00151,LG-00670,76.0,82.8,68.7,247,1,5,Python,observed,65.0,0
+ENR-00164,LG-00331,49.8,69.1,56.9,95,1,4,Machine Learning,observed,49.1,1
+ENR-00170,LG-00413,90.4,59.8,95.3,398,1,9,Web Development,observed,69.2,0
+ENR-00174,LG-00052,77.6,32.3,74.8,186,1,6,SQL,observed,36.8,1
+ENR-00187,LG-01508,100.0,62.6,77.5,439,2,8,Machine Learning,observed,64.6,0
+ENR-00189,LG-01109,61.3,61.3,68.8,232,3,2,Data Analytics,observed,49.9,1
+ENR-00195,LG-01147,69.6,92.5,78.8,202,0,8,Data Analytics,observed,84.8,0
+ENR-00197,LG-00350,78.4,83.8,99.7,228,0,7,Python,observed,88.6,0
+ENR-00198,LG-00253,53.6,69.8,66.0,261,3,8,Python,observed,42.7,1
+ENR-00199,LG-01552,91.1,66.0,100.0,446,0,16,Data Analytics,observed,65.0,0
+ENR-00210,LG-00007,100.0,78.7,100.0,932,0,15,Machine Learning,observed,79.1,0
+ENR-00215,LG-01314,82.4,64.3,88.7,392,1,11,Data Analytics,observed,70.9,0
+ENR-00216,LG-00856,70.7,49.4,54.3,396,3,1,Python,observed,45.1,1
+ENR-00220,LG-00031,76.4,55.6,69.4,257,6,6,Web Development,observed,53.5,0
+ENR-00221,LG-00308,79.3,40.5,45.6,77,3,4,Data Analytics,observed,62.2,0
+ENR-00225,LG-00461,77.2,46.7,52.7,210,0,2,Python,observed,37.7,1
+ENR-00226,LG-00927,79.8,29.9,68.5,263,1,6,Machine Learning,observed,53.0,0
+ENR-00232,LG-01547,72.3,86.9,77.9,252,4,5,Web Development,observed,77.4,0
+ENR-00235,LG-00465,81.0,82.8,91.0,206,4,2,Web Development,observed,55.0,0
+ENR-00239,LG-01298,77.7,73.9,48.0,225,2,7,Data Analytics,observed,65.1,0
+ENR-00241,LG-01287,70.1,58.8,60.1,255,3,3,Data Analytics,observed,54.3,0
+ENR-00242,LG-01444,70.3,46.9,72.9,252,2,5,Python,observed,41.2,1
+ENR-00247,LG-00163,80.8,58.8,97.9,343,2,8,Data Analytics,observed,61.3,0
+ENR-00250,LG-01239,49.3,45.8,58.4,115,5,6,Web Development,observed,40.7,1
+ENR-00257,LG-01300,51.4,20.8,57.1,131,2,6,Machine Learning,observed,23.3,1
+ENR-00266,LG-01238,85.1,93.9,92.7,256,2,5,SQL,observed,71.2,0
+ENR-00272,LG-00336,96.8,80.4,100.0,408,0,7,SQL,observed,95.2,0
+ENR-00276,LG-00288,67.8,67.6,58.5,105,2,3,Web Development,observed,61.9,0
+ENR-00280,LG-01235,100.0,66.1,88.2,606,1,7,SQL,observed,66.3,0
+ENR-00286,LG-00205,60.3,32.0,72.5,164,4,4,Python,observed,33.2,1
+ENR-00291,LG-00466,86.5,,86.2,427,2,8,Web Development,observed,69.7,0
+ENR-00300,LG-00392,59.4,84.5,80.5,200,2,3,Machine Learning,observed,55.6,0
+ENR-00304,LG-00580,79.2,68.8,85.8,379,1,5,Machine Learning,observed,48.7,1
+ENR-00340,LG-00208,64.9,63.5,84.9,212,3,3,SQL,observed,77.2,0
+ENR-00357,LG-00399,69.9,58.9,65.5,256,1,6,Machine Learning,observed,62.3,0
+ENR-00358,LG-00437,51.1,25.3,39.8,206,6,5,Python,observed,45.2,1
+ENR-00369,LG-00300,100.0,67.7,100.0,264,1,1,SQL,observed,73.6,0
+ENR-00383,LG-00438,68.6,87.6,71.1,113,3,5,Data Analytics,observed,71.4,0
+ENR-00384,LG-00610,68.1,99.6,78.3,236,1,6,Data Analytics,observed,76.6,0
+ENR-00391,LG-01315,94.9,60.5,82.8,381,2,10,Python,observed,68.5,0
+ENR-00398,LG-00972,69.4,49.7,52.1,228,3,2,Python,observed,51.1,0
+ENR-00403,LG-00115,74.4,69.9,65.5,199,3,2,Python,observed,58.2,0
+ENR-00404,LG-00688,60.7,59.9,66.2,161,3,3,Machine Learning,observed,39.8,1
+ENR-00407,LG-01390,76.5,100.0,100.0,334,1,7,Web Development,observed,86.2,0
+ENR-00410,LG-01468,85.2,60.1,79.8,244,2,8,Data Analytics,observed,43.2,1
+ENR-00412,LG-00878,66.7,48.5,41.8,227,1,3,Machine Learning,observed,48.4,1
+ENR-00413,LG-00193,100.0,79.8,70.0,250,2,4,Data Analytics,observed,60.9,0
+ENR-00419,LG-00388,64.3,,60.6,258,5,5,Data Analytics,observed,52.7,0
+ENR-00424,LG-01144,79.4,59.4,91.5,416,4,9,SQL,observed,66.9,0
+ENR-00428,LG-00986,86.1,68.6,84.9,342,1,9,Data Analytics,observed,63.6,0
+ENR-00433,LG-01351,77.8,71.7,67.0,157,3,9,Web Development,observed,66.0,0
+ENR-00438,LG-01533,72.7,53.3,92.3,199,2,2,SQL,observed,50.9,0
+ENR-00442,LG-01276,48.0,60.4,38.8,97,9,4,Machine Learning,observed,30.9,1
+ENR-00444,LG-01197,76.1,43.4,52.2,271,2,4,Data Analytics,observed,43.8,1
+ENR-00445,LG-00855,90.4,30.2,46.9,326,2,2,Machine Learning,observed,46.0,1
+ENR-00448,LG-00500,56.8,53.1,65.5,223,6,3,SQL,observed,37.0,1
+ENR-00458,LG-00821,65.7,41.7,57.1,172,0,3,Machine Learning,observed,41.0,1
+ENR-00464,LG-00579,58.8,27.7,27.5,96,10,1,Machine Learning,observed,38.4,1
+ENR-00465,LG-00510,64.6,54.5,77.9,247,4,8,Python,observed,57.1,0
+ENR-00479,LG-00605,64.5,27.9,51.7,135,4,4,Data Analytics,observed,53.6,0
+ENR-00485,LG-00423,53.2,39.5,23.2,140,7,4,SQL,observed,15.6,1
+ENR-00486,LG-01203,61.4,67.1,66.4,283,2,4,Data Analytics,observed,42.0,1
+ENR-00496,LG-00211,56.2,44.5,62.2,173,6,5,Python,observed,40.8,1
+ENR-00505,LG-00421,80.3,63.7,71.3,144,2,9,Python,observed,48.6,1
+ENR-00508,LG-00134,66.1,45.4,49.5,82,4,1,SQL,observed,39.6,1
+ENR-00510,LG-00219,59.0,48.5,62.6,232,0,1,Machine Learning,observed,48.5,1
+ENR-00511,LG-00993,59.2,50.5,46.2,159,4,2,Machine Learning,observed,28.5,1
+ENR-00514,LG-00422,64.1,,80.8,219,2,9,Web Development,observed,60.9,0
+ENR-00526,LG-00701,74.9,86.8,86.9,431,3,7,Web Development,observed,77.2,0
+ENR-00530,LG-00285,81.1,33.5,54.3,174,0,4,Web Development,observed,55.6,0
+ENR-00531,LG-00785,70.4,80.4,63.9,163,1,1,Web Development,observed,80.7,0
+ENR-00542,LG-01422,66.2,57.2,46.0,377,4,5,Web Development,observed,51.4,0
+ENR-00567,LG-00185,51.0,61.2,29.2,141,3,1,Python,observed,48.8,1
+ENR-00569,LG-00979,73.9,76.1,72.9,360,1,9,Python,observed,58.7,0
+ENR-00571,LG-00212,60.5,41.0,59.3,136,2,3,Data Analytics,observed,46.5,1
+ENR-00572,LG-00686,62.1,61.9,62.5,265,2,7,Data Analytics,observed,61.1,0
+ENR-00575,LG-01501,63.8,78.9,72.1,171,3,6,SQL,observed,67.3,0
+ENR-00577,LG-00633,62.1,40.2,58.9,294,2,3,Machine Learning,observed,50.8,0
+ENR-00587,LG-00361,74.9,88.4,97.3,324,7,9,SQL,observed,78.5,0
+ENR-00588,LG-00117,85.9,78.7,92.8,193,1,5,Python,observed,76.5,0
+ENR-00591,LG-00096,92.4,80.6,94.8,268,1,6,Web Development,observed,72.6,0
+ENR-00592,LG-00289,89.5,62.0,67.4,512,0,1,Data Analytics,observed,79.0,0
+ENR-00594,LG-01118,74.4,97.6,79.4,157,2,7,Web Development,observed,70.9,0
+ENR-00599,LG-00069,56.3,48.9,64.7,329,4,2,Data Analytics,observed,50.5,0
+ENR-00606,LG-00940,91.9,64.4,79.0,206,1,8,Web Development,observed,73.4,0
+ENR-00612,LG-01183,82.5,67.1,75.7,212,4,9,Data Analytics,observed,52.7,0
+ENR-00620,LG-00698,82.3,56.7,83.4,334,1,0,Python,observed,59.9,0
+ENR-00629,LG-01513,99.3,74.1,100.0,714,1,7,Data Analytics,observed,81.5,0
+ENR-00631,LG-00789,59.0,,61.5,267,4,4,SQL,observed,63.3,0
+ENR-00633,LG-01225,46.1,65.1,63.3,225,2,2,Web Development,observed,44.3,1
+ENR-00641,LG-01377,72.8,56.4,52.1,112,2,7,Python,observed,51.9,0
+ENR-00646,LG-01472,40.1,31.7,14.2,67,3,3,Python,observed,31.0,1
+ENR-00653,LG-01172,53.4,61.9,70.6,190,1,6,Machine Learning,observed,51.4,0
+ENR-00666,LG-00536,100.0,87.4,93.6,343,0,12,SQL,observed,81.3,0
+ENR-00670,LG-00907,57.2,62.5,55.1,296,4,3,SQL,observed,55.3,0
+ENR-00689,LG-00138,92.4,90.8,100.0,604,1,10,Web Development,observed,89.5,0
+ENR-00695,LG-01132,79.0,,67.2,192,5,4,Web Development,observed,61.1,0
+ENR-00697,LG-00714,67.3,70.7,61.2,157,3,4,SQL,observed,53.0,0
+ENR-00700,LG-01328,65.4,,81.1,132,2,8,Machine Learning,observed,52.5,0
+ENR-00703,LG-00109,69.0,52.4,68.7,289,2,3,Web Development,observed,61.8,0
+ENR-00713,LG-01140,81.0,65.7,58.7,135,3,9,Machine Learning,observed,38.9,1
+ENR-00714,LG-00037,79.4,74.7,92.7,282,2,17,Web Development,observed,75.3,0
+ENR-00715,LG-01306,92.2,58.7,87.8,262,0,7,SQL,observed,71.5,0
+ENR-00736,LG-01019,94.4,74.5,100.0,485,1,6,Machine Learning,observed,63.6,0
+ENR-00744,LG-01268,86.6,70.8,86.5,265,0,13,Python,observed,79.9,0
+ENR-00749,LG-01217,42.5,57.7,47.3,106,10,6,Machine Learning,observed,19.4,1
+ENR-00766,LG-01016,79.3,79.9,100.0,237,1,10,Data Analytics,observed,81.6,0
+ENR-00769,LG-01418,93.3,100.0,100.0,621,1,12,Data Analytics,observed,79.4,0
+ENR-00771,LG-00233,51.9,40.5,32.4,106,1,5,Data Analytics,observed,33.5,1
+ENR-00780,LG-00025,84.6,66.4,100.0,521,0,6,Machine Learning,observed,65.0,0
+ENR-00789,LG-01112,60.2,60.2,73.7,222,3,6,Machine Learning,observed,45.1,1
+ENR-00790,LG-00121,100.0,73.7,100.0,157,0,11,Machine Learning,observed,71.7,0
+ENR-00793,LG-00919,58.2,40.4,37.5,93,6,6,Data Analytics,observed,38.5,1
+ENR-00814,LG-01518,76.5,58.6,69.1,128,5,3,Machine Learning,observed,51.1,0
+ENR-00817,LG-01223,62.6,67.3,69.2,221,1,3,Python,observed,49.2,1
+ENR-00826,LG-01085,49.8,39.2,42.1,102,5,2,Data Analytics,observed,41.3,1
+ENR-00830,LG-01340,79.2,50.2,64.6,352,2,7,Data Analytics,observed,57.0,0
+ENR-00836,LG-00275,75.6,78.5,71.0,138,2,7,Data Analytics,observed,70.9,0
+ENR-00852,LG-00955,57.2,83.9,77.1,170,2,8,Machine Learning,observed,56.3,0
+ENR-00853,LG-01270,85.6,73.6,98.2,190,1,12,Data Analytics,observed,76.3,0
+ENR-00857,LG-01141,77.7,51.9,80.2,206,2,10,Python,observed,74.2,0
+ENR-00859,LG-00920,75.4,35.5,66.9,312,0,8,Data Analytics,observed,67.2,0
+ENR-00870,LG-01274,47.6,60.2,29.7,190,5,3,SQL,observed,50.2,0
+ENR-00872,LG-01096,79.0,53.9,70.5,121,0,2,Web Development,observed,43.3,1
+ENR-00877,LG-01162,52.1,48.6,63.3,205,2,3,Web Development,observed,62.4,0
+ENR-00893,LG-00043,62.2,87.0,83.0,214,1,8,SQL,observed,54.3,0
+ENR-00914,LG-00415,87.1,80.3,68.7,202,3,11,Data Analytics,observed,74.7,0
+ENR-00915,LG-00864,72.7,74.9,77.3,227,3,7,Data Analytics,observed,59.3,0
+ENR-00916,LG-01214,80.5,74.3,86.8,324,1,13,SQL,observed,71.0,0
+ENR-00918,LG-00221,82.9,100.0,100.0,647,0,5,Python,observed,100.0,0
+ENR-00920,LG-00071,63.3,61.3,56.3,223,5,5,Python,observed,52.1,0
+ENR-00926,LG-00206,88.3,87.6,91.7,370,2,6,Python,observed,73.0,0
+ENR-00932,LG-00078,26.6,35.4,13.7,92,12,3,Machine Learning,observed,14.4,1
+ENR-00939,LG-00982,46.5,26.6,44.0,127,5,2,SQL,observed,43.7,1
+ENR-00944,LG-01130,63.5,72.4,55.6,110,2,6,Data Analytics,observed,41.0,1
+ENR-00948,LG-00913,85.3,73.5,79.1,219,1,10,Web Development,observed,72.1,0
+ENR-00951,LG-01201,36.7,32.4,26.6,118,2,0,Web Development,observed,35.5,1
+ENR-00957,LG-01336,67.8,54.1,49.9,176,7,4,SQL,observed,54.9,0
+ENR-00961,LG-00187,47.5,38.5,38.7,149,8,0,Web Development,observed,23.3,1
+ENR-00963,LG-00365,63.6,34.4,21.6,175,5,5,Machine Learning,observed,34.8,1
+ENR-00964,LG-00949,50.2,46.3,42.9,117,3,2,Machine Learning,observed,46.3,1
+ENR-00965,LG-00905,81.1,,49.4,215,2,7,Python,observed,79.1,0
+ENR-00966,LG-00347,72.9,57.0,68.5,245,2,6,Python,observed,54.7,0
+ENR-00968,LG-00151,91.3,,64.8,288,1,10,Python,observed,47.2,1
+ENR-00969,LG-00131,79.5,36.1,61.9,368,3,6,Data Analytics,observed,51.0,0
+ENR-00971,LG-00705,88.2,55.4,74.5,212,2,5,Data Analytics,observed,56.8,0
+ENR-00976,LG-00849,51.5,52.4,73.6,285,2,7,Machine Learning,observed,61.2,0
+ENR-00979,LG-00457,67.3,76.4,77.2,247,3,7,SQL,observed,53.6,0
+ENR-00980,LG-01198,96.7,67.7,86.5,447,0,8,SQL,observed,86.1,0
+ENR-00983,LG-00931,88.8,79.0,88.8,956,2,4,SQL,observed,71.2,0
+ENR-00988,LG-00147,83.6,39.1,66.3,153,0,7,Web Development,observed,57.5,0
+ENR-00993,LG-00471,76.8,93.2,79.4,210,0,9,Python,observed,66.2,0
+ENR-00994,LG-00918,56.3,54.9,39.0,124,3,4,Machine Learning,observed,44.4,1
+ENR-00999,LG-01403,33.8,57.9,48.1,117,4,5,Data Analytics,observed,71.4,0
+ENR-01016,LG-00666,62.9,51.0,75.1,300,2,6,Machine Learning,observed,52.9,0
+ENR-01018,LG-00516,63.5,,70.4,112,2,7,Machine Learning,observed,43.7,1
+ENR-01022,LG-00383,50.5,83.3,80.4,167,1,3,Python,observed,64.3,0
+ENR-01027,LG-00802,86.5,62.9,79.0,192,4,6,Machine Learning,observed,44.6,1
+ENR-01029,LG-01067,78.2,63.3,66.8,291,3,12,Web Development,observed,65.5,0
+ENR-01035,LG-01193,54.9,19.6,42.1,319,1,7,Web Development,observed,43.0,1
+ENR-01036,LG-00860,61.6,36.4,88.1,188,2,3,Data Analytics,observed,55.7,0
+ENR-01042,LG-00533,78.8,71.7,80.3,356,4,5,Data Analytics,observed,66.1,0
+ENR-01048,LG-00062,65.6,71.9,60.6,157,1,5,Machine Learning,observed,45.8,1
+ENR-01051,LG-00065,62.3,67.6,81.1,106,6,3,Data Analytics,observed,38.5,1
+ENR-01057,LG-00677,70.4,47.7,65.0,183,2,5,Data Analytics,observed,32.0,1
+ENR-01060,LG-00220,80.7,67.6,84.5,206,3,6,Web Development,observed,53.0,0
+ENR-01064,LG-00054,92.8,60.7,77.0,206,2,6,SQL,observed,76.5,0
+ENR-01066,LG-00110,69.4,,60.3,109,3,3,SQL,observed,50.9,0
+ENR-01068,LG-00033,87.2,43.9,89.7,334,0,6,Web Development,observed,51.4,0
+ENR-01069,LG-00214,51.3,78.4,52.1,153,1,2,Web Development,observed,50.3,0
+ENR-01070,LG-00366,64.1,80.3,62.8,127,4,6,SQL,observed,70.6,0
+ENR-01078,LG-00097,60.4,73.0,65.4,210,1,5,SQL,observed,45.1,1
+ENR-01089,LG-00030,67.7,56.7,68.1,358,1,9,Web Development,observed,59.6,0
+ENR-01093,LG-00544,90.2,,68.8,430,3,2,Python,observed,52.0,0
+ENR-01094,LG-00980,66.6,45.3,90.6,190,0,9,Machine Learning,observed,58.7,0
+ENR-01100,LG-00893,83.7,51.0,83.8,161,1,6,SQL,observed,75.1,0
+ENR-01102,LG-00060,58.7,63.1,53.4,204,3,1,Python,observed,58.0,0
+ENR-01107,LG-01151,53.8,19.9,35.4,93,6,0,SQL,observed,36.4,1
+ENR-01111,LG-01027,50.7,56.9,61.2,125,3,4,Data Analytics,observed,59.2,0
+ENR-01118,LG-01365,77.4,59.3,80.2,186,2,8,Web Development,observed,67.6,0
+ENR-01124,LG-00548,77.9,56.3,73.1,240,2,6,Python,observed,55.1,0
+ENR-01127,LG-01127,88.3,58.4,73.1,201,3,6,Machine Learning,observed,64.1,0
+ENR-01128,LG-00144,80.2,100.0,78.6,215,1,4,Data Analytics,observed,71.7,0
+ENR-01129,LG-00238,74.2,78.9,78.0,140,4,7,Web Development,observed,68.6,0
+ENR-01150,LG-01285,82.2,68.8,80.8,319,1,5,Data Analytics,observed,64.3,0
+ENR-01152,LG-01409,73.6,65.6,87.2,214,1,4,Data Analytics,observed,51.0,0
+ENR-01155,LG-00906,74.1,58.7,83.5,267,1,5,Web Development,observed,71.6,0
+ENR-01157,LG-00107,65.9,58.7,51.4,161,3,7,Data Analytics,observed,51.7,0
+ENR-01158,LG-00588,71.2,70.7,76.8,206,3,7,Python,observed,67.5,0
+ENR-01159,LG-00841,75.3,56.7,79.3,224,1,5,Python,observed,60.4,0
+ENR-01167,LG-01065,47.8,35.8,26.3,94,8,1,Web Development,observed,41.5,1
+ENR-01169,LG-00140,66.5,61.5,56.5,309,3,8,SQL,observed,51.1,0
+ENR-01175,LG-00871,83.5,58.4,100.0,203,3,8,Data Analytics,observed,70.3,0
+ENR-01176,LG-01173,73.8,86.1,67.4,268,1,8,Python,observed,82.2,0
+ENR-01201,LG-01054,67.9,100.0,69.6,150,6,4,Web Development,observed,73.2,0
+ENR-01202,LG-01241,100.0,,89.3,447,0,5,Data Analytics,observed,69.1,0
+ENR-01204,LG-01236,41.6,30.6,47.8,67,10,1,Python,observed,50.2,0
+ENR-01211,LG-00169,78.2,89.9,64.0,238,2,5,Web Development,observed,65.7,0
+ENR-01219,LG-01184,84.6,67.2,84.9,322,3,9,SQL,observed,75.7,0
+ENR-01220,LG-00103,75.5,56.7,60.8,183,3,1,Machine Learning,observed,41.9,1
+ENR-01221,LG-01425,100.0,80.6,94.7,555,0,13,Web Development,observed,96.4,0
+ENR-01226,LG-01488,58.1,44.2,50.5,206,1,3,SQL,observed,51.1,0
+ENR-01230,LG-01504,100.0,64.8,100.0,476,1,10,Python,observed,79.2,0
+ENR-01234,LG-00273,100.0,57.1,86.6,524,1,7,Machine Learning,observed,62.6,0
+ENR-01239,LG-01478,100.0,71.4,100.0,247,2,7,SQL,observed,78.0,0
+ENR-01243,LG-00783,56.1,19.5,42.7,111,4,3,SQL,observed,51.1,0
+ENR-01247,LG-00128,65.7,39.5,53.7,121,2,1,Machine Learning,observed,32.6,1
+ENR-01253,LG-01277,84.5,84.7,91.0,352,0,9,Data Analytics,observed,85.6,0
+ENR-01261,LG-00787,89.6,60.1,85.4,312,2,6,Web Development,observed,77.4,0
+ENR-01262,LG-00530,41.4,43.2,31.0,135,5,0,Machine Learning,observed,18.0,1
+ENR-01269,LG-00201,55.6,73.9,54.0,354,2,1,Python,observed,45.3,1
+ENR-01281,LG-00911,83.4,77.7,95.4,259,2,12,SQL,observed,76.6,0
+ENR-01297,LG-01075,74.9,40.1,78.8,229,1,9,Data Analytics,observed,70.9,0
+ENR-01303,LG-00987,90.9,74.3,90.6,239,1,9,Python,observed,75.5,0
+ENR-01304,LG-00994,94.0,67.4,81.1,290,0,8,Data Analytics,observed,54.2,0
+ENR-01305,LG-01105,68.7,58.3,71.0,285,2,7,Python,observed,56.2,0
+ENR-01306,LG-00659,90.8,55.6,87.2,221,3,7,Machine Learning,observed,57.2,0
+ENR-01311,LG-01359,74.5,86.2,90.8,250,0,9,Python,observed,67.3,0
+ENR-01313,LG-01076,69.5,42.1,54.9,98,4,0,Python,observed,53.7,0
+ENR-01314,LG-01487,40.7,49.5,53.5,224,2,0,Python,observed,48.6,1
+ENR-01315,LG-00582,70.8,71.4,92.7,241,1,7,Web Development,observed,72.5,0
+ENR-01316,LG-00074,61.1,56.0,57.8,192,0,1,SQL,observed,47.8,1
+ENR-01317,LG-00158,93.2,62.9,100.0,500,0,6,SQL,observed,76.6,0
+ENR-01318,LG-01106,68.5,48.9,49.0,135,5,6,Data Analytics,observed,40.9,1
+ENR-01319,LG-00877,67.9,71.2,60.7,186,1,4,Web Development,observed,68.6,0
+ENR-01336,LG-00408,88.3,43.5,72.7,310,5,9,Data Analytics,observed,57.6,0
+ENR-01343,LG-01245,51.8,47.8,41.7,112,2,5,Data Analytics,observed,44.6,1
+ENR-01344,LG-00494,68.4,56.9,62.4,278,2,5,Python,observed,61.7,0
+ENR-01350,LG-00651,59.2,37.6,59.0,203,1,4,SQL,observed,44.4,1
+ENR-01355,LG-00552,96.2,64.0,76.3,362,1,12,Python,observed,70.9,0
+ENR-01357,LG-00061,62.9,31.9,60.7,161,5,1,Python,observed,43.2,1
+ENR-01358,LG-00118,53.6,62.3,58.4,126,5,4,Machine Learning,observed,56.3,0
+ENR-01359,LG-01195,69.7,79.2,67.9,442,1,6,SQL,observed,65.5,0
+ENR-01372,LG-00599,75.8,57.1,79.1,284,2,7,Web Development,observed,62.0,0
+ENR-01373,LG-00959,100.0,89.7,100.0,518,0,16,Web Development,observed,89.3,0
+ENR-01381,LG-00606,51.4,43.9,41.2,111,3,7,Data Analytics,observed,27.0,1
+ENR-01383,LG-00039,100.0,86.2,100.0,673,0,16,Data Analytics,observed,99.1,0
+ENR-01389,LG-00814,45.6,48.4,50.8,293,9,2,SQL,observed,23.8,1
+ENR-01395,LG-00608,73.6,35.7,58.1,151,1,4,Python,observed,60.8,0
+ENR-01400,LG-00284,82.7,83.4,96.6,415,5,8,Python,observed,75.5,0
+ENR-01402,LG-00515,100.0,59.7,90.4,649,1,7,SQL,observed,88.4,0
+ENR-01410,LG-00832,65.1,61.2,64.7,532,3,4,Machine Learning,observed,76.7,0
+ENR-01419,LG-01549,64.2,49.4,54.3,273,3,2,Data Analytics,observed,44.3,1
+ENR-01425,LG-00032,54.7,39.7,40.7,220,3,1,Web Development,observed,55.5,0
+ENR-01429,LG-00226,72.2,62.5,67.2,406,0,5,Web Development,observed,44.7,1
+ENR-01433,LG-00222,26.2,26.5,31.4,45,7,4,Python,observed,19.5,1
+ENR-01439,LG-00429,70.2,62.6,70.7,192,2,11,Machine Learning,observed,45.4,1
+ENR-01445,LG-00546,82.0,51.0,79.1,168,4,3,Data Analytics,observed,45.4,1
+ENR-01454,LG-00100,98.2,69.3,80.5,443,1,10,Python,observed,82.3,0
+ENR-01457,LG-00491,45.2,31.7,25.9,121,9,2,Machine Learning,observed,15.4,1
+ENR-01465,LG-01086,42.2,24.8,46.8,107,5,3,Data Analytics,observed,18.5,1
+ENR-01474,LG-01355,71.6,37.6,56.0,182,1,2,Data Analytics,observed,39.6,1
+ENR-01484,LG-00676,69.7,37.5,67.1,193,5,10,Machine Learning,observed,43.7,1
+ENR-01487,LG-00472,83.7,75.6,81.4,370,2,6,Python,observed,72.2,0
+ENR-01489,LG-01104,53.4,46.5,34.1,55,5,3,Data Analytics,observed,29.3,1
+ENR-01494,LG-01047,80.7,70.9,76.5,311,1,11,Web Development,observed,66.8,0
+ENR-01495,LG-00324,61.7,66.5,73.1,208,2,2,Machine Learning,observed,37.3,1
+ENR-01498,LG-01008,53.7,45.4,46.8,192,3,6,Data Analytics,observed,39.9,1
+ENR-01506,LG-00671,81.7,70.5,74.4,262,2,2,Python,observed,62.4,0
+ENR-01510,LG-00925,87.9,70.4,93.1,120,4,9,Python,observed,74.9,0
+ENR-01513,LG-01412,65.0,,74.2,160,2,5,Web Development,observed,55.8,0
+ENR-01514,LG-00880,68.5,26.5,37.8,123,4,6,Python,observed,22.7,1
+ENR-01519,LG-01056,96.4,49.2,100.0,372,3,8,Machine Learning,observed,61.7,0
+ENR-01520,LG-00895,78.4,44.8,75.9,161,3,4,SQL,observed,56.4,0
+ENR-01524,LG-00984,100.0,80.2,100.0,650,0,14,Data Analytics,observed,94.9,0
+ENR-01525,LG-00876,100.0,41.1,91.4,563,0,9,Python,observed,70.2,0
+ENR-01526,LG-00886,52.5,54.5,46.6,87,3,2,Data Analytics,observed,19.6,1
+ENR-01530,LG-00036,69.2,68.2,75.2,162,2,5,Data Analytics,observed,46.7,1
+ENR-01536,LG-01269,78.9,44.8,88.1,507,0,5,Data Analytics,observed,68.6,0
+ENR-01537,LG-00950,79.7,82.5,85.2,348,2,7,Data Analytics,observed,81.6,0
+ENR-01543,LG-00449,72.5,66.6,72.6,176,1,6,Data Analytics,observed,60.3,0
+ENR-01548,LG-00597,75.6,53.3,83.0,130,2,6,Python,observed,55.3,0
+ENR-01551,LG-00581,61.6,48.9,68.3,212,0,2,Machine Learning,observed,40.8,1
+ENR-01556,LG-00756,76.1,83.7,92.9,83,2,6,Python,observed,60.6,0
+ENR-01559,LG-01395,79.6,75.2,81.0,175,3,6,Data Analytics,observed,61.1,0
+ENR-01560,LG-00111,49.5,72.5,52.3,124,1,8,Machine Learning,observed,46.3,1
