@@ -1,0 +1,5 @@
+{
+  "evaluated_split": "test",
+  "final_config_sha256": "6d3e748403ad553bbc1fffba9c4b1978cd51b6a8c6e4fc408c90e67412a7fcc4",
+  "note": "The test set has been used once. Settings are frozen. Re-running or retuning would invalidate these results."
+}

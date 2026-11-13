@@ -1,0 +1,301 @@
+enrollment_id,course_category,final_score,below_benchmark,predicted_final_score,selected_model_score,flagged_for_support,error_type
+ENR-00002,Machine Learning,45.2,1,40.2,0.8326,1,true positive
+ENR-00017,Python,70.5,0,59.3,0.1585,0,true negative
+ENR-00023,Data Analytics,70.4,0,61.9,0.071,0,true negative
+ENR-00027,Data Analytics,72.0,0,83.9,0.0018,0,true negative
+ENR-00032,SQL,59.9,0,55.8,0.2871,1,false positive
+ENR-00037,Python,34.6,1,42.0,0.8273,1,true positive
+ENR-00038,Python,51.2,0,57.5,0.1935,0,true negative
+ENR-00044,Data Analytics,38.9,1,38.7,0.8695,1,true positive
+ENR-00047,Python,77.9,0,73.9,0.0105,0,true negative
+ENR-00052,Machine Learning,76.2,0,56.7,0.2822,1,false positive
+ENR-00053,Python,66.0,0,60.8,0.1271,0,true negative
+ENR-00058,Web Development,18.7,1,22.8,0.992,1,true positive
+ENR-00060,Python,30.3,1,32.9,0.9437,1,true positive
+ENR-00071,Machine Learning,75.6,0,70.8,0.0379,0,true negative
+ENR-00075,SQL,56.4,0,66.9,0.065,0,true negative
+ENR-00076,Web Development,79.9,0,74.3,0.0121,0,true negative
+ENR-00088,Python,51.3,0,46.8,0.5325,1,false positive
+ENR-00091,Python,47.8,1,46.9,0.6055,1,true positive
+ENR-00108,SQL,82.2,0,84.6,0.0024,0,true negative
+ENR-00114,Python,43.9,1,44.0,0.7601,1,true positive
+ENR-00121,Data Analytics,80.1,0,72.9,0.0078,0,true negative
+ENR-00126,Python,9.4,1,20.4,0.994,1,true positive
+ENR-00128,SQL,53.4,0,57.3,0.266,1,false positive
+ENR-00139,Web Development,74.6,0,65.3,0.0498,0,true negative
+ENR-00151,Python,65.0,0,66.3,0.043,0,true negative
+ENR-00164,Machine Learning,49.1,1,50.8,0.48,1,true positive
+ENR-00170,Web Development,69.2,0,71.8,0.0157,0,true negative
+ENR-00174,SQL,36.8,1,56.8,0.3033,1,true positive
+ENR-00187,Machine Learning,64.6,0,65.4,0.0531,0,true negative
+ENR-00189,Data Analytics,49.9,1,54.6,0.2873,1,true positive
+ENR-00195,Data Analytics,84.8,0,70.9,0.0162,0,true negative
+ENR-00197,Python,88.6,0,76.3,0.0088,0,true negative
+ENR-00198,Python,42.7,1,56.5,0.1798,0,false negative
+ENR-00199,Data Analytics,65.0,0,76.5,0.0042,0,true negative
+ENR-00210,Machine Learning,79.1,0,82.2,0.0012,0,true negative
+ENR-00215,Data Analytics,70.9,0,69.2,0.0186,0,true negative
+ENR-00216,Python,45.1,1,51.2,0.3991,1,true positive
+ENR-00220,Web Development,53.5,0,54.3,0.3159,1,false positive
+ENR-00221,Data Analytics,62.2,0,45.9,0.6537,1,false positive
+ENR-00225,Python,37.7,1,53.7,0.3155,1,true positive
+ENR-00226,Machine Learning,53.0,0,50.7,0.4753,1,false positive
+ENR-00232,Web Development,77.4,0,65.8,0.0551,0,true negative
+ENR-00235,Web Development,55.0,0,68.9,0.0452,0,true negative
+ENR-00239,Data Analytics,65.1,0,57.4,0.1413,0,true negative
+ENR-00241,Data Analytics,54.3,0,53.7,0.2991,1,false positive
+ENR-00242,Python,41.2,1,56.1,0.2352,0,false negative
+ENR-00247,Data Analytics,61.3,0,67.9,0.0319,0,true negative
+ENR-00250,Web Development,40.7,1,44.2,0.7264,1,true positive
+ENR-00257,Machine Learning,23.3,1,38.2,0.8944,1,true positive
+ENR-00266,SQL,71.2,0,77.6,0.0115,0,true negative
+ENR-00272,SQL,95.2,0,81.9,0.0043,0,true negative
+ENR-00276,Web Development,61.9,0,56.1,0.2561,0,true negative
+ENR-00280,SQL,66.3,0,76.0,0.0095,0,true negative
+ENR-00286,Python,33.2,1,47.3,0.6461,1,true positive
+ENR-00291,Web Development,69.7,0,66.1,0.0542,0,true negative
+ENR-00300,Machine Learning,55.6,0,61.9,0.131,0,true negative
+ENR-00304,Machine Learning,48.7,1,65.6,0.0598,0,false negative
+ENR-00340,SQL,77.2,0,62.4,0.1613,0,true negative
+ENR-00357,Machine Learning,62.3,0,55.5,0.2604,1,false positive
+ENR-00358,Python,45.2,1,33.6,0.938,1,true positive
+ENR-00369,SQL,73.6,0,76.1,0.0201,0,true negative
+ENR-00383,Data Analytics,71.4,0,62.9,0.0847,0,true negative
+ENR-00384,Data Analytics,76.6,0,71.0,0.0169,0,true negative
+ENR-00391,Python,68.5,0,68.3,0.0269,0,true negative
+ENR-00398,Python,51.1,0,49.5,0.5063,1,false positive
+ENR-00403,Python,58.2,0,58.8,0.1829,0,true negative
+ENR-00404,Machine Learning,39.8,1,50.8,0.5243,1,true positive
+ENR-00407,Web Development,86.2,0,80.0,0.0041,0,true negative
+ENR-00410,Data Analytics,43.2,1,63.7,0.0639,0,false negative
+ENR-00412,Machine Learning,48.4,1,45.5,0.6727,1,true positive
+ENR-00413,Data Analytics,60.9,0,68.3,0.033,0,true negative
+ENR-00419,Data Analytics,52.7,0,49.4,0.5387,1,false positive
+ENR-00424,SQL,66.9,0,66.9,0.056,0,true negative
+ENR-00428,Data Analytics,63.6,0,69.3,0.0207,0,true negative
+ENR-00433,Web Development,66.0,0,61.3,0.0996,0,true negative
+ENR-00438,SQL,50.9,0,64.0,0.1407,0,true negative
+ENR-00442,Machine Learning,30.9,1,34.2,0.9532,1,true positive
+ENR-00444,Data Analytics,43.8,1,50.2,0.4091,1,true positive
+ENR-00445,Machine Learning,46.0,1,45.8,0.6872,1,true positive
+ENR-00448,SQL,37.0,1,49.8,0.6243,1,true positive
+ENR-00458,Machine Learning,41.0,1,48.3,0.5947,1,true positive
+ENR-00464,Machine Learning,38.4,1,23.3,0.9941,1,true positive
+ENR-00465,Python,57.1,0,56.4,0.217,0,true negative
+ENR-00479,Data Analytics,53.6,0,40.8,0.8221,1,false positive
+ENR-00485,SQL,15.6,1,33.3,0.9608,1,true positive
+ENR-00486,Data Analytics,42.0,1,57.3,0.166,0,false negative
+ENR-00496,Python,40.8,1,45.0,0.7135,1,true positive
+ENR-00505,Python,48.6,1,61.7,0.0962,0,false negative
+ENR-00508,SQL,39.6,1,46.5,0.7685,1,true positive
+ENR-00510,Machine Learning,48.5,1,50.3,0.5151,1,true positive
+ENR-00511,Machine Learning,28.5,1,41.6,0.8396,1,true positive
+ENR-00514,Web Development,60.9,0,59.4,0.1699,0,true negative
+ENR-00526,Web Development,77.2,0,71.3,0.0167,0,true negative
+ENR-00530,Web Development,55.6,0,51.7,0.3946,1,false positive
+ENR-00531,Web Development,80.7,0,62.4,0.1019,0,true negative
+ENR-00542,Web Development,51.4,0,49.8,0.4055,1,false positive
+ENR-00567,Python,48.8,1,42.4,0.761,1,true positive
+ENR-00569,Python,58.7,0,66.7,0.0304,0,true negative
+ENR-00571,Data Analytics,46.5,1,47.5,0.582,1,true positive
+ENR-00572,Data Analytics,61.1,0,55.5,0.193,0,true negative
+ENR-00575,SQL,67.3,0,63.0,0.1203,0,true negative
+ENR-00577,Machine Learning,50.8,0,46.2,0.6653,1,false positive
+ENR-00587,SQL,78.5,0,70.8,0.0351,0,true negative
+ENR-00588,Python,76.5,0,72.9,0.0186,0,true negative
+ENR-00591,Web Development,72.6,0,76.0,0.0099,0,true negative
+ENR-00592,Data Analytics,79.0,0,64.9,0.0458,0,true negative
+ENR-00594,Web Development,70.9,0,71.3,0.0203,0,true negative
+ENR-00599,Data Analytics,50.5,0,49.0,0.4955,1,false positive
+ENR-00606,Web Development,73.4,0,67.6,0.0374,0,true negative
+ENR-00612,Data Analytics,52.7,0,61.5,0.092,0,true negative
+ENR-00620,Python,59.9,0,64.4,0.0803,0,true negative
+ENR-00629,Data Analytics,81.5,0,79.3,0.003,0,true negative
+ENR-00631,SQL,63.3,0,52.2,0.5449,1,false positive
+ENR-00633,Web Development,44.3,1,53.4,0.3284,1,true positive
+ENR-00641,Python,51.9,0,53.0,0.3243,1,false positive
+ENR-00646,Python,31.0,1,28.9,0.969,1,true positive
+ENR-00653,Machine Learning,51.4,0,54.1,0.323,1,false positive
+ENR-00666,SQL,81.3,0,82.9,0.0029,0,true negative
+ENR-00670,SQL,55.3,0,52.5,0.4446,1,false positive
+ENR-00689,Web Development,89.5,0,82.9,0.0017,0,true negative
+ENR-00695,Web Development,61.1,0,54.1,0.4195,1,false positive
+ENR-00697,SQL,53.0,0,58.3,0.2473,0,true negative
+ENR-00700,Machine Learning,52.5,0,55.7,0.3604,1,false positive
+ENR-00703,Web Development,61.8,0,56.3,0.2291,0,true negative
+ENR-00713,Machine Learning,38.9,1,54.8,0.2943,1,true positive
+ENR-00714,Web Development,75.3,0,72.2,0.0109,0,true negative
+ENR-00715,SQL,71.5,0,71.4,0.0299,0,true negative
+ENR-00736,Machine Learning,63.6,0,74.4,0.0131,0,true negative
+ENR-00744,Python,79.9,0,72.3,0.012,0,true negative
+ENR-00749,Machine Learning,19.4,1,34.0,0.9549,1,true positive
+ENR-00766,Data Analytics,81.6,0,74.3,0.0102,0,true negative
+ENR-00769,Data Analytics,79.4,0,84.9,0.0009,0,true negative
+ENR-00771,Data Analytics,33.5,1,40.2,0.7828,1,true positive
+ENR-00780,Machine Learning,65.0,0,72.0,0.0181,0,true negative
+ENR-00789,Machine Learning,45.1,1,53.6,0.3639,1,true positive
+ENR-00790,Machine Learning,71.7,0,74.9,0.0136,0,true negative
+ENR-00793,Data Analytics,38.5,1,36.8,0.8906,1,true positive
+ENR-00814,Machine Learning,51.1,0,51.5,0.541,1,false positive
+ENR-00817,Python,49.2,1,59.6,0.1427,0,false negative
+ENR-00826,Data Analytics,41.3,1,36.8,0.9056,1,true positive
+ENR-00830,Data Analytics,57.0,0,56.8,0.1593,0,true negative
+ENR-00836,Data Analytics,70.9,0,63.5,0.0685,0,true negative
+ENR-00852,Machine Learning,56.3,0,61.1,0.121,0,true negative
+ENR-00853,Data Analytics,76.3,0,73.4,0.0117,0,true negative
+ENR-00857,Python,74.2,0,61.1,0.1025,0,true negative
+ENR-00859,Data Analytics,67.2,0,55.1,0.1945,0,true negative
+ENR-00870,SQL,50.2,0,41.7,0.8337,1,false positive
+ENR-00872,Web Development,43.3,1,60.0,0.1612,0,false negative
+ENR-00877,Web Development,62.4,0,50.3,0.4642,1,false positive
+ENR-00893,SQL,54.3,0,70.5,0.0299,0,true negative
+ENR-00914,Data Analytics,74.7,0,65.3,0.041,0,true negative
+ENR-00915,Data Analytics,59.3,0,63.1,0.0717,0,true negative
+ENR-00916,SQL,71.0,0,73.2,0.0148,0,true negative
+ENR-00918,Python,100.0,0,84.0,0.0015,0,true negative
+ENR-00920,Python,52.1,0,50.5,0.4439,1,false positive
+ENR-00926,Python,73.0,0,75.5,0.0093,0,true negative
+ENR-00932,Machine Learning,14.4,1,13.8,0.9986,1,true positive
+ENR-00939,SQL,43.7,1,36.0,0.9485,1,true positive
+ENR-00944,Data Analytics,41.0,1,55.4,0.2218,0,false negative
+ENR-00948,Web Development,72.1,0,69.1,0.0248,0,true negative
+ENR-00951,Web Development,35.5,1,32.9,0.9464,1,true positive
+ENR-00957,SQL,54.9,0,46.7,0.7328,1,false positive
+ENR-00961,Web Development,23.3,1,32.7,0.9615,1,true positive
+ENR-00963,Machine Learning,34.8,1,31.4,0.9601,1,true positive
+ENR-00964,Machine Learning,46.3,1,38.9,0.89,1,true positive
+ENR-00965,Python,79.1,0,53.8,0.3303,1,false positive
+ENR-00966,Python,54.7,0,58.1,0.1649,0,true negative
+ENR-00968,Python,47.2,1,61.8,0.0974,0,false negative
+ENR-00969,Data Analytics,51.0,0,51.3,0.3482,1,false positive
+ENR-00971,Data Analytics,56.8,0,61.0,0.1144,0,true negative
+ENR-00976,Machine Learning,61.2,0,51.8,0.3985,1,false positive
+ENR-00979,SQL,53.6,0,65.0,0.0814,0,true negative
+ENR-00980,SQL,86.1,0,75.6,0.0109,0,true negative
+ENR-00983,SQL,71.2,0,78.2,0.0048,0,true negative
+ENR-00988,Web Development,57.5,0,57.0,0.1995,0,true negative
+ENR-00993,Python,66.2,0,73.4,0.0113,0,true negative
+ENR-00994,Machine Learning,44.4,1,41.6,0.8158,1,true positive
+ENR-00999,Data Analytics,71.4,0,41.9,0.7524,1,false positive
+ENR-01016,Machine Learning,52.9,0,53.8,0.3339,1,false positive
+ENR-01018,Machine Learning,43.7,1,52.3,0.5014,1,true positive
+ENR-01022,Python,64.3,0,64.0,0.0771,0,true negative
+ENR-01027,Machine Learning,44.6,1,59.1,0.2102,0,false negative
+ENR-01029,Web Development,65.5,0,60.6,0.086,0,true negative
+ENR-01035,Web Development,43.0,1,40.6,0.7507,1,true positive
+ENR-01036,Data Analytics,55.7,0,54.3,0.3348,1,false positive
+ENR-01042,Data Analytics,66.1,0,63.6,0.0683,0,true negative
+ENR-01048,Machine Learning,45.8,1,55.9,0.2629,1,true positive
+ENR-01051,Data Analytics,38.5,1,55.3,0.3255,1,true positive
+ENR-01057,Data Analytics,32.0,1,53.1,0.3214,1,true positive
+ENR-01060,Web Development,53.0,0,65.1,0.0668,0,true negative
+ENR-01064,SQL,76.5,0,66.3,0.0768,0,true negative
+ENR-01066,SQL,50.9,0,53.7,0.5341,1,false positive
+ENR-01068,Web Development,51.4,0,66.0,0.0496,0,true negative
+ENR-01069,Web Development,50.3,0,55.5,0.2419,0,true negative
+ENR-01070,SQL,70.6,0,59.5,0.2034,0,true negative
+ENR-01078,SQL,45.1,1,61.6,0.1331,0,false negative
+ENR-01089,Web Development,59.6,0,59.6,0.0976,0,true negative
+ENR-01093,Python,52.0,0,60.0,0.17,0,true negative
+ENR-01094,Machine Learning,58.7,0,59.1,0.1731,0,true negative
+ENR-01100,SQL,75.1,0,64.8,0.1034,0,true negative
+ENR-01102,Python,58.0,0,51.0,0.448,1,false positive
+ENR-01107,SQL,36.4,1,31.7,0.9785,1,true positive
+ENR-01111,Data Analytics,59.2,0,49.2,0.4983,1,false positive
+ENR-01118,Web Development,67.6,0,62.7,0.0877,0,true negative
+ENR-01124,Python,55.1,0,60.0,0.1308,0,true negative
+ENR-01127,Machine Learning,64.1,0,57.9,0.2294,0,true negative
+ENR-01128,Data Analytics,71.7,0,72.9,0.0143,0,true negative
+ENR-01129,Web Development,68.6,0,63.7,0.0826,0,true negative
+ENR-01150,Data Analytics,64.3,0,66.8,0.0377,0,true negative
+ENR-01152,Data Analytics,51.0,0,65.2,0.06,0,true negative
+ENR-01155,Web Development,71.6,0,64.0,0.0722,0,true negative
+ENR-01157,Data Analytics,51.7,0,50.6,0.3825,1,false positive
+ENR-01158,Python,67.5,0,62.2,0.0943,0,true negative
+ENR-01159,Python,60.4,0,62.1,0.0998,0,true negative
+ENR-01167,Web Development,41.5,1,28.7,0.9793,1,true positive
+ENR-01169,SQL,51.1,0,56.3,0.2397,0,true negative
+ENR-01175,Data Analytics,70.3,0,66.7,0.049,0,true negative
+ENR-01176,Python,82.2,0,67.0,0.0315,0,true negative
+ENR-01201,Web Development,73.2,0,63.0,0.0992,0,true negative
+ENR-01202,Data Analytics,69.1,0,70.5,0.0258,0,true negative
+ENR-01204,Python,50.2,0,29.0,0.9831,1,false positive
+ENR-01211,Web Development,65.7,0,66.3,0.0435,0,true negative
+ENR-01219,SQL,75.7,0,68.6,0.0426,0,true negative
+ENR-01220,Machine Learning,41.9,1,51.1,0.5304,1,true positive
+ENR-01221,Web Development,96.4,0,81.6,0.0018,0,true negative
+ENR-01226,SQL,51.1,0,49.7,0.5651,1,false positive
+ENR-01230,Python,79.2,0,76.6,0.0063,0,true negative
+ENR-01234,Machine Learning,62.6,0,68.0,0.0343,0,true negative
+ENR-01239,SQL,78.0,0,76.7,0.0143,0,true negative
+ENR-01243,SQL,51.1,0,36.9,0.939,1,false positive
+ENR-01247,Machine Learning,32.6,1,43.9,0.799,1,true positive
+ENR-01253,Data Analytics,85.6,0,75.9,0.0063,0,true negative
+ENR-01261,Web Development,77.4,0,67.0,0.0441,0,true negative
+ENR-01262,Machine Learning,18.0,1,31.0,0.9717,1,true positive
+ENR-01269,Python,45.3,1,55.5,0.2218,0,false negative
+ENR-01281,SQL,76.6,0,75.0,0.0136,0,true negative
+ENR-01297,Data Analytics,70.9,0,57.7,0.1547,0,true negative
+ENR-01303,Python,75.5,0,73.1,0.0142,0,true negative
+ENR-01304,Data Analytics,54.2,0,70.1,0.0192,0,true negative
+ENR-01305,Python,56.2,0,58.8,0.1384,0,true negative
+ENR-01306,Machine Learning,57.2,0,61.6,0.1414,0,true negative
+ENR-01311,Python,67.3,0,74.4,0.0099,0,true negative
+ENR-01313,Python,53.7,0,45.9,0.7281,1,false positive
+ENR-01314,Python,48.6,1,45.4,0.6741,1,true positive
+ENR-01315,Web Development,72.5,0,69.1,0.0297,0,true negative
+ENR-01316,SQL,47.8,1,55.9,0.3296,1,true positive
+ENR-01317,SQL,76.6,0,77.2,0.0094,0,true negative
+ENR-01318,Data Analytics,40.9,1,45.3,0.6513,1,true positive
+ENR-01319,Web Development,68.6,0,59.5,0.1374,0,true negative
+ENR-01336,Data Analytics,57.6,0,55.3,0.2263,0,true negative
+ENR-01343,Data Analytics,44.6,1,43.3,0.6956,1,true positive
+ENR-01344,Python,61.7,0,55.8,0.2204,0,true negative
+ENR-01350,SQL,44.4,1,50.5,0.5381,1,true positive
+ENR-01355,Python,70.9,0,69.1,0.0199,0,true negative
+ENR-01357,Python,43.2,1,43.0,0.8106,1,true positive
+ENR-01358,Machine Learning,56.3,0,45.7,0.7271,1,false positive
+ENR-01359,SQL,65.5,0,67.3,0.0406,0,true negative
+ENR-01372,Web Development,62.0,0,62.0,0.0902,0,true negative
+ENR-01373,Web Development,89.3,0,85.5,0.0009,0,true negative
+ENR-01381,Data Analytics,27.0,1,41.2,0.7567,1,true positive
+ENR-01383,Data Analytics,99.1,0,84.8,0.0007,0,true negative
+ENR-01389,SQL,23.8,1,39.6,0.9042,1,true positive
+ENR-01395,Python,60.8,0,50.4,0.4696,1,false positive
+ENR-01400,Python,75.5,0,71.8,0.0177,0,true negative
+ENR-01402,SQL,88.4,0,75.2,0.0106,0,true negative
+ENR-01410,Machine Learning,76.7,0,54.3,0.268,1,false positive
+ENR-01419,Data Analytics,44.3,1,48.7,0.5022,1,true positive
+ENR-01425,Web Development,55.5,0,41.3,0.803,1,false positive
+ENR-01429,Web Development,44.7,1,62.6,0.0661,0,false negative
+ENR-01433,Python,19.5,1,24.8,0.9879,1,true positive
+ENR-01439,Machine Learning,45.4,1,57.0,0.1976,0,false negative
+ENR-01445,Data Analytics,45.4,1,57.0,0.2527,0,false negative
+ENR-01454,Python,82.3,0,72.1,0.0121,0,true negative
+ENR-01457,Machine Learning,15.4,1,23.0,0.9934,1,true positive
+ENR-01465,Data Analytics,18.5,1,33.2,0.9474,1,true positive
+ENR-01474,Data Analytics,39.6,1,49.2,0.5034,1,true positive
+ENR-01484,Machine Learning,43.7,1,45.9,0.6757,1,true positive
+ENR-01487,Python,72.2,0,69.0,0.0269,0,true negative
+ENR-01489,Data Analytics,29.3,1,37.1,0.8958,1,true positive
+ENR-01494,Web Development,66.8,0,67.8,0.0261,0,true negative
+ENR-01495,Machine Learning,37.3,1,55.8,0.314,1,true positive
+ENR-01498,Data Analytics,39.9,1,43.9,0.6615,1,true positive
+ENR-01506,Python,62.4,0,64.2,0.0783,0,true negative
+ENR-01510,Python,74.9,0,67.9,0.0457,0,true negative
+ENR-01513,Web Development,55.8,0,56.8,0.2853,1,false positive
+ENR-01514,Python,22.7,1,38.5,0.8661,1,true positive
+ENR-01519,Machine Learning,61.7,0,65.5,0.0702,0,true negative
+ENR-01520,SQL,56.4,0,57.6,0.3147,1,false positive
+ENR-01524,Data Analytics,94.9,0,82.8,0.0012,0,true negative
+ENR-01525,Python,70.2,0,69.9,0.018,0,true negative
+ENR-01526,Data Analytics,19.6,1,44.6,0.6992,1,true positive
+ENR-01530,Data Analytics,46.7,1,60.6,0.1187,0,false negative
+ENR-01536,Data Analytics,68.6,0,64.5,0.0478,0,true negative
+ENR-01537,Data Analytics,81.6,0,70.3,0.0189,0,true negative
+ENR-01543,Data Analytics,60.3,0,61.6,0.0926,0,true negative
+ENR-01548,Python,55.3,0,60.6,0.1429,0,true negative
+ENR-01551,Machine Learning,40.8,1,52.4,0.4318,1,true positive
+ENR-01556,Python,60.6,0,70.7,0.0297,0,true negative
+ENR-01559,Data Analytics,61.1,0,64.9,0.0623,0,true negative
+ENR-01560,Machine Learning,46.3,1,51.2,0.3932,1,true positive

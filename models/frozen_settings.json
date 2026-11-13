@@ -1,0 +1,84 @@
+{
+  "status": "FROZEN - chosen on validation data only; do not change after the test evaluation",
+  "data_origin": "SYNTHETIC",
+  "seed": 42,
+  "benchmark": 50,
+  "features": [
+    "quiz_average",
+    "attendance_pct",
+    "assignment_completion_pct",
+    "active_learning_minutes",
+    "days_since_last_activity",
+    "practice_attempt_count",
+    "course_category"
+  ],
+  "assumptions_to_confirm_with_client": {
+    "capacity_max_flagged_share": 0.4,
+    "beta_recall_weight": 2.0,
+    "threshold_rule": "highest F2 among thresholds flagging <= 40% of learners; a learner is flagged when score >= threshold"
+  },
+  "selection_rule": "models within 0.01 validation PR-AUC of the best are tied; tie-break order ['Logistic regression', 'SVM', 'Decision tree']",
+  "selected_classifier_name": "Logistic regression",
+  "selected_classifier": "logistic_regression_pipeline.joblib",
+  "threshold": 0.2592968396117782,
+  "threshold_type": "probability",
+  "probability_available": true,
+  "probability_rule": "native probability and validation Brier skill >= 0.25",
+  "models": {
+    "Logistic regression": {
+      "file": "logistic_regression_pipeline.joblib",
+      "score_type": "probability",
+      "threshold": 0.2592968396117782,
+      "validation": {
+        "roc_auc": 0.918,
+        "pr_auc": 0.861,
+        "precision": 0.667,
+        "recall": 0.842,
+        "f1": 0.744,
+        "flagged_share": 0.4,
+        "brier": 0.105,
+        "brier_skill": 0.516
+      }
+    },
+    "Decision tree": {
+      "file": "decision_tree_pipeline.joblib",
+      "score_type": "probability",
+      "threshold": 0.36509146341463417,
+      "validation": {
+        "roc_auc": 0.867,
+        "pr_auc": 0.753,
+        "precision": 0.647,
+        "recall": 0.811,
+        "f1": 0.72,
+        "flagged_share": 0.397,
+        "brier": 0.131,
+        "brier_skill": 0.397
+      }
+    },
+    "SVM": {
+      "file": "svm_pipeline.joblib",
+      "score_type": "decision_score",
+      "threshold": -0.7818362938624355,
+      "validation": {
+        "roc_auc": 0.918,
+        "pr_auc": 0.858,
+        "precision": 0.667,
+        "recall": 0.842,
+        "f1": 0.744,
+        "flagged_share": 0.4,
+        "brier": null,
+        "brier_skill": null
+      }
+    }
+  },
+  "regression_pipeline": "linear_regression_pipeline.joblib",
+  "regression_prediction_rule": "clipped to 0-100",
+  "file_sha256": {
+    "logistic_regression_pipeline.joblib": "f387cb52c2902bd108988f59105a79832c44ed347b369dac00960103b6d31392",
+    "decision_tree_pipeline.joblib": "fb7397b9e714d664e348dddc6d68f63e6c4f3bc8a4b543202c3e288293188181",
+    "svm_pipeline.joblib": "d8219ced98ca6b2c2eee7f10fba4b8e9b96590e9247bae336b180ef3d253bb04",
+    "linear_regression_pipeline.joblib": "fe6bec5bd6c7845b03e3f9c36eb39c8843253c9ebf0437ef630b4789af4f29d3"
+  },
+  "test_csv_sha256": "942defc9d0c8f37ac18ad706bb233c8618bb60030c66c1dea4c96ae1d2bdf12e",
+  "scikit_learn_version": "1.9.1"
+}
