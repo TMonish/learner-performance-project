@@ -1,0 +1,76 @@
+{
+  "data_origin": "SYNTHETIC",
+  "trained_on": "train split only",
+  "seed": 42,
+  "features": [
+    "quiz_average",
+    "attendance_pct",
+    "assignment_completion_pct",
+    "active_learning_minutes",
+    "days_since_last_activity",
+    "practice_attempt_count",
+    "course_category"
+  ],
+  "benchmark": 50,
+  "positive_class": "below_benchmark = 1",
+  "provisional_threshold": 0.5,
+  "threshold_status": "NOT chosen yet - to be chosen on validation data on Day 7, then frozen",
+  "scikit_learn_version": "1.9.1",
+  "logistic_regression": {
+    "max_iter": 1000,
+    "iterations_used": 18,
+    "validation": {
+      "ROC-AUC": 0.918,
+      "PR-AUC": 0.861,
+      "Precision": 0.812,
+      "Recall": 0.684,
+      "F1": 0.743,
+      "Accuracy": 0.85,
+      "TN": 190,
+      "FP": 15,
+      "FN": 30,
+      "TP": 65
+    },
+    "train": {
+      "ROC-AUC": 0.893,
+      "PR-AUC": 0.819,
+      "Precision": 0.773,
+      "Recall": 0.681,
+      "F1": 0.724,
+      "Accuracy": 0.836,
+      "TN": 558,
+      "FP": 57,
+      "FN": 91,
+      "TP": 194
+    }
+  },
+  "decision_tree": {
+    "max_depth": 5,
+    "min_samples_leaf": 40,
+    "validation": {
+      "ROC-AUC": 0.867,
+      "PR-AUC": 0.753,
+      "Precision": 0.693,
+      "Recall": 0.642,
+      "F1": 0.667,
+      "Accuracy": 0.797,
+      "TN": 178,
+      "FP": 27,
+      "FN": 34,
+      "TP": 61
+    },
+    "train": {
+      "ROC-AUC": 0.889,
+      "PR-AUC": 0.776,
+      "Precision": 0.716,
+      "Recall": 0.674,
+      "F1": 0.694,
+      "Accuracy": 0.812,
+      "TN": 539,
+      "FP": 76,
+      "FN": 93,
+      "TP": 192
+    },
+    "selection_rule": "simplest tree within 0.005 of best validation ROC-AUC"
+  }
+}
