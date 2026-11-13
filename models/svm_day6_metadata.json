@@ -1,0 +1,56 @@
+{
+  "data_origin": "SYNTHETIC",
+  "trained_on": "train split only",
+  "seed": 42,
+  "features": [
+    "quiz_average",
+    "attendance_pct",
+    "assignment_completion_pct",
+    "active_learning_minutes",
+    "days_since_last_activity",
+    "practice_attempt_count",
+    "course_category"
+  ],
+  "benchmark": 50,
+  "positive_class": "below_benchmark = 1",
+  "scikit_learn_version": "1.9.1",
+  "svm": {
+    "kernel": "linear",
+    "C": 0.1,
+    "gamma": "scale",
+    "output": "decision score (signed margin), NOT a probability",
+    "selection_rule": "simplest candidate within 0.005 of best validation ROC-AUC (linear before rbf, then smaller C)",
+    "provisional_score_threshold": 0.0,
+    "validation": {
+      "ROC-AUC": 0.918,
+      "PR-AUC": 0.858,
+      "Precision": 0.827,
+      "Recall": 0.705,
+      "F1": 0.761,
+      "Accuracy": 0.86,
+      "TN": 191,
+      "FP": 14,
+      "FN": 28,
+      "TP": 67
+    },
+    "train": {
+      "ROC-AUC": 0.893,
+      "PR-AUC": 0.818,
+      "Precision": 0.767,
+      "Recall": 0.681,
+      "F1": 0.721,
+      "Accuracy": 0.833,
+      "TN": 556,
+      "FP": 59,
+      "FN": 91,
+      "TP": 194
+    }
+  },
+  "svm_calibrated": {
+    "method": "sigmoid",
+    "cv": 5,
+    "fitted_on": "training data only",
+    "validation_brier": 0.108
+  },
+  "threshold_status": "NOT chosen yet - to be chosen on validation data on Day 7, then frozen"
+}

@@ -1,0 +1,5 @@
+Model,ROC-AUC,PR-AUC,Precision,Recall,F1,Accuracy
+Majority-class baseline (always predict 0),0.5,0.317,0.0,0.0,0.0,0.683
+Logistic regression,0.918,0.861,0.812,0.684,0.743,0.85
+"Decision tree (depth 5, leaf 40)",0.867,0.753,0.693,0.642,0.667,0.797
+"SVM (linear, C=0.1) - decision score",0.918,0.858,0.827,0.705,0.761,0.86
