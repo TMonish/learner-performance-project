@@ -1,0 +1,29 @@
+{
+  "model": "LinearRegression",
+  "trained_on": "train split only",
+  "seed": 42,
+  "data_origin": "SYNTHETIC",
+  "features": [
+    "quiz_average",
+    "attendance_pct",
+    "assignment_completion_pct",
+    "active_learning_minutes",
+    "days_since_last_activity",
+    "practice_attempt_count",
+    "course_category"
+  ],
+  "benchmark": 50,
+  "prediction_rule": "clipped to [0, 100]",
+  "scikit_learn_version": "1.9.1",
+  "validation_metrics_clipped": {
+    "MAE": 7.68,
+    "RMSE": 9.73,
+    "R2": 0.637
+  },
+  "validation_metrics_baseline": {
+    "MAE": 13.12,
+    "RMSE": 16.16,
+    "R2": -0.001
+  },
+  "beats_baseline": true
+}
