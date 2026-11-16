@@ -43,3 +43,4 @@ def classification_metrics(y_true, prob, threshold: float = 0.5) -> dict:
         "Accuracy": round(float(accuracy_score(y_true, pred)), 3),
         "TN": int(tn), "FP": int(fp), "FN": int(fn), "TP": int(tp),
     }
+    

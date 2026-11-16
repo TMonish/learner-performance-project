@@ -1,0 +1,5 @@
+enrollment_id,quiz_average,attendance_pct,assignment_completion_pct,active_learning_minutes,days_since_last_activity,practice_attempt_count,course_category
+"=HYPERLINK(""http://example.com"")",60.0,64.6,71.9,129,1,2,Machine Learning
++cmd|calc,65.4,62.7,53.3,184,1,4,Data Analytics
+@SUM(A1),,79.3,69.5,103,0,8,Data Analytics
+<b>bold</b><script>alert(1)</script>,44.0,77.4,82.5,132,4,6,Python

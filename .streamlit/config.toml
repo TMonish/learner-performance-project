@@ -1,0 +1,10 @@
+# Local-only dashboard: no telemetry, 5 MB upload limit.
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 5
+
+[theme]
+base = "light"
+primaryColor = "#2b8a6e"

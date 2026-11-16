@@ -1,22 +1,4 @@
-"""
-Day 7, phase B - One-time evaluation of all FROZEN models on the held-out TEST split.
-Project : Learner Performance Prediction & Early Learning Support Dashboard
 
-DATA IS SYNTHETIC. Results demonstrate the implementation, not effectiveness on real learners.
-
-Safety rules enforced by this script
-  - Nothing is fitted or tuned here. Saved pipelines and frozen thresholds are only APPLIED.
-  - The fingerprints (SHA-256) of the saved pipelines and of test.csv must match the values
-    recorded when the settings were frozen; otherwise the script stops.
-  - After a real run it writes models/test_evaluation_lock.json. A second real run is refused,
-    because reusing the test set after seeing results invalidates it.
-  - `--rehearsal` runs the identical code on the VALIDATION split (outputs go to reports/rehearsal/)
-    so the reporting code can be checked without touching the test set.
-
-Usage:
-    python src/evaluate_test.py --rehearsal     (optional dry run on validation data)
-    python src/evaluate_test.py                 (the real, one-time test evaluation)
-"""
 
 import argparse
 import json
